@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/.DS_Store",
+      "PackagePath": "staticwebassets/images/drivers/.DS_Store"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/MaxVerstappen.jpeg",
+      "PackagePath": "staticwebassets/images/drivers/MaxVerstappen.jpeg"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Formula1 API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Formula1 API.props",
+      "PackagePath": "build\\Formula1 API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Formula1 API.props",
+      "PackagePath": "buildMultiTargeting\\Formula1 API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Formula1 API.props",
+      "PackagePath": "buildTransitive\\Formula1 API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

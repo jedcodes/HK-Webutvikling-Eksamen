@@ -1,11 +1,88 @@
 {
   "Version": 1,
-  "Hash": "6dttUoDAIcckq753yCikgzvHNg28ehTSRY2qRzc8EuM=",
+  "Hash": "dHXHrWzOV7tokJiS4bSKKPnRxTd6yqseRdBnIa4qv9w=",
   "Source": "Formula1 API",
   "BasePath": "_content/Formula1 API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Formula1 API/wwwroot",
+      "Source": "Formula1 API",
+      "ContentRoot": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/",
+      "BasePath": "_content/Formula1 API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/.DS_Store",
+      "SourceId": "Formula1 API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/",
+      "BasePath": "_content/Formula1 API",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
+      "Identity": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/.DS_Store",
+      "SourceId": "Formula1 API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/",
+      "BasePath": "_content/Formula1 API",
+      "RelativePath": "images/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/.DS_Store"
+    },
+    {
+      "Identity": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/.DS_Store",
+      "SourceId": "Formula1 API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/",
+      "BasePath": "_content/Formula1 API",
+      "RelativePath": "images/drivers/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/drivers/.DS_Store"
+    },
+    {
+      "Identity": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/MaxVerstappen.jpeg",
+      "SourceId": "Formula1 API",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/",
+      "BasePath": "_content/Formula1 API",
+      "RelativePath": "images/drivers/MaxVerstappen.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/drivers/MaxVerstappen.jpeg"
+    }
+  ]
 }

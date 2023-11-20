@@ -8,4 +8,7 @@ public class Driver : IDriver
     public int Age { get; set; }
     public string? Nationality { get; set; }
     public string? Image { get; set; }
+    public int? Points { get; set; }
+    public int? Ranking { get; set; }
+    public string? Flag { get; set; }
 }

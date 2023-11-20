@@ -8,4 +8,7 @@ public class Team : ITeam
     public string? Image { get; set; }
     public int Driver1Id { get; set; }
     public int Driver2Id { get; set; }
+    public int Ranking { get; set; }
+    public int Points { get; set; }
+    public string? Logo { get; set; }
 }

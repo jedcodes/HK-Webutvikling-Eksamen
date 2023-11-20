@@ -7,4 +7,7 @@ public interface IDriver
     int Age { get; set; }
     string? Nationality { get; set; }
     string? Image { get; set; }
+    int? Points { get; set; }
+    int? Ranking { get; set; }
+    string? Flag { get; set; }
 }

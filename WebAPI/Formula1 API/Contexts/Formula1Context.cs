@@ -16,7 +16,7 @@ public class Formula1Context : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         // Configure primary key for the Team entity
-        modelBuilder.Entity<Team>().HasKey(team => team.Id);
+        modelBuilder.Entity<Team>().HasNoKey();
 
         // Additional configurations for other entities or properties...
 

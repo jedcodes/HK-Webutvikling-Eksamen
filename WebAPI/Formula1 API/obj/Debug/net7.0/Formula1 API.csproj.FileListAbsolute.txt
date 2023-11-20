@@ -67,3 +67,4 @@
 /Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/Formula1 API.pdb
 /Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/Formula1 API.genruntimeconfig.cache
 /Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/ref/Formula1 API.dll
+/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Formula1 API.staticwebassets.runtime.json
