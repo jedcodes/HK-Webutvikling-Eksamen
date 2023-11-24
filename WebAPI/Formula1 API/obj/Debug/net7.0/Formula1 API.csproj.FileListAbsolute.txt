@@ -68,3 +68,73 @@
 /Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/Formula1 API.genruntimeconfig.cache
 /Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/ref/Formula1 API.dll
 /Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Formula1 API.staticwebassets.runtime.json
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/appsettings.Development.json
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/appsettings.json
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Formula1 API.staticwebassets.runtime.json
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Formula1 API
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Formula1 API.deps.json
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Formula1 API.runtimeconfig.json
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Formula1 API.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Formula1 API.pdb
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Humanizer.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/Formula1 API.csproj.AssemblyReference.cache
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/Formula1 API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/Formula1 API.AssemblyInfoInputs.cache
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/Formula1 API.AssemblyInfo.cs
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/Formula1 API.csproj.CoreCompileInputs.cache
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/Formula1 API.MvcApplicationPartsAssemblyInfo.cs
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/Formula1 API.MvcApplicationPartsAssemblyInfo.cache
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/staticwebassets/msbuild.Formula1 API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/staticwebassets/msbuild.build.Formula1 API.props
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Formula1 API.props
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Formula1 API.props
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/scopedcss/bundle/Formula1 API.styles.css
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/Formula1 API.csproj.CopyComplete
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/Formula1 API.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/refint/Formula1 API.dll
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/Formula1 API.pdb
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/Formula1 API.genruntimeconfig.cache
+/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/Debug/net7.0/ref/Formula1 API.dll

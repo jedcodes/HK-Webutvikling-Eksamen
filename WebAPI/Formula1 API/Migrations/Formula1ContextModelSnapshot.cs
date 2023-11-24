@@ -26,9 +26,6 @@ namespace Formula1_API.Migrations
                     b.Property<int>("Age")
                         .HasColumnType("INTEGER");
 
-                    b.Property<string>("Flag")
-                        .HasColumnType("TEXT");
-
                     b.Property<string>("Image")
                         .HasColumnType("TEXT");
 
@@ -47,6 +44,32 @@ namespace Formula1_API.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Drivers");
+                });
+
+            modelBuilder.Entity("Formula1_API.Models.FlashCard", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Answer")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Option1")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Option2")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Option3")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Question")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("FlashCards");
                 });
 
             modelBuilder.Entity("Formula1_API.Models.Race", b =>
@@ -74,11 +97,11 @@ namespace Formula1_API.Migrations
 
             modelBuilder.Entity("Formula1_API.Models.Team", b =>
                 {
-                    b.Property<int>("Driver1Id")
-                        .HasColumnType("INTEGER");
+                    b.Property<string>("Driver1")
+                        .HasColumnType("TEXT");
 
-                    b.Property<int>("Driver2Id")
-                        .HasColumnType("INTEGER");
+                    b.Property<string>("Driver2")
+                        .HasColumnType("TEXT");
 
                     b.Property<int>("Id")
                         .HasColumnType("INTEGER");

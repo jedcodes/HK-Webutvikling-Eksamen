@@ -54,4 +54,29 @@ public class TeamsController : ControllerBase
             return StatusCode(500);
         }
     }
+
+    // Get By Name method kontroller
+    [HttpGet("[action]")]
+    public async Task<ActionResult<Team>> GetByName(string name)
+    {
+        try
+        {
+            // Case-insensitive search for the driver by name
+            Team? team = await context.Teams
+             .FirstOrDefaultAsync(d => d.Manufacturer.ToLower() == name.ToLower());
+
+            if (team != null)
+            {
+                return Ok(team);
+            }
+            else
+            {
+                return NotFound();
+            }
+        }
+        catch
+        {
+            return StatusCode(500);
+        }
+    }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/Formula1 API.csproj": {}
+    "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/Formula1 API.csproj": {}
   },
   "projects": {
-    "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/Formula1 API.csproj": {
+    "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/Formula1 API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/Formula1 API.csproj",
+        "projectUniqueName": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/Formula1 API.csproj",
         "projectName": "Formula1 API",
-        "projectPath": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/Formula1 API.csproj",
+        "projectPath": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/Formula1 API.csproj",
         "packagesPath": "/Users/jackdelamou/.nuget/packages/",
-        "outputPath": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/",
+        "outputPath": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jackdelamou/.nuget/NuGet/NuGet.Config"

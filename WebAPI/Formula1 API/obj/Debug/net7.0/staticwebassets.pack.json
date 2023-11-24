@@ -1,20 +1,96 @@
 {
   "Files": [
     {
-      "Id": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/.DS_Store",
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/.DS_Store",
       "PackagePath": "staticwebassets/.DS_Store"
     },
     {
-      "Id": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/.DS_Store",
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/.DS_Store",
       "PackagePath": "staticwebassets/images/.DS_Store"
     },
     {
-      "Id": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/.DS_Store",
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/.DS_Store",
       "PackagePath": "staticwebassets/images/drivers/.DS_Store"
     },
     {
-      "Id": "/Users/jackdelamou/Documents/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/MaxVerstappen.jpeg",
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/MaxVerstappen.jpeg",
       "PackagePath": "staticwebassets/images/drivers/MaxVerstappen.jpeg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/alexanderAlbon.jpg",
+      "PackagePath": "staticwebassets/images/drivers/alexanderAlbon.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/carlosSainz.jpg",
+      "PackagePath": "staticwebassets/images/drivers/carlosSainz.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/charlesLeclerc.jpg",
+      "PackagePath": "staticwebassets/images/drivers/charlesLeclerc.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/estebanOcon.jpg",
+      "PackagePath": "staticwebassets/images/drivers/estebanOcon.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/fernandoAlonso.jpg",
+      "PackagePath": "staticwebassets/images/drivers/fernandoAlonso.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/georgeRussell.jpg",
+      "PackagePath": "staticwebassets/images/drivers/georgeRussell.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/lanceStroll.jpg",
+      "PackagePath": "staticwebassets/images/drivers/lanceStroll.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/landoNorris.jpg",
+      "PackagePath": "staticwebassets/images/drivers/landoNorris.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/lewisHamilton.jpg",
+      "PackagePath": "staticwebassets/images/drivers/lewisHamilton.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/oscarPiastri.jpg",
+      "PackagePath": "staticwebassets/images/drivers/oscarPiastri.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/pierreGasly.jpg",
+      "PackagePath": "staticwebassets/images/drivers/pierreGasly.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/sergioPerez.jpg",
+      "PackagePath": "staticwebassets/images/drivers/sergioPerez.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/valtteriBottas.jpg",
+      "PackagePath": "staticwebassets/images/drivers/valtteriBottas.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/drivers/yukiTsunoda.jpg",
+      "PackagePath": "staticwebassets/images/drivers/yukiTsunoda.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/teams/.DS_Store",
+      "PackagePath": "staticwebassets/images/teams/.DS_Store"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/teams/teamFerrari.jpg",
+      "PackagePath": "staticwebassets/images/teams/teamFerrari.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/teams/teamMclaren.jpg",
+      "PackagePath": "staticwebassets/images/teams/teamMclaren.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/teams/teamMercedes.jpg",
+      "PackagePath": "staticwebassets/images/teams/teamMercedes.jpg"
+    },
+    {
+      "Id": "/Users/jackdelamou/Documents/Dokumenter – Jack sin MacBook Pro/HK-Webutvikling-Eksamen/WebAPI/Formula1 API/wwwroot/images/teams/teamRedbull.jpg",
+      "PackagePath": "staticwebassets/images/teams/teamRedbull.jpg"
     },
     {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Formula1 API.Microsoft.AspNetCore.StaticWebAssets.props",

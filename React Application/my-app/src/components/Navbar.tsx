@@ -19,7 +19,6 @@ const Navbar = () => {
             {navLinks.map((item) => (
               <li key={item.label}>
                 <Link
-                onClick={() => setIsMenuOpen(!isMenuOpen)}
                   to={item.href}
                   className="font-montserrat leading-normal text-2xl text-white"
                 >

@@ -9,5 +9,4 @@ public interface IDriver
     string? Image { get; set; }
     int? Points { get; set; }
     int? Ranking { get; set; }
-    string? Flag { get; set; }
 }

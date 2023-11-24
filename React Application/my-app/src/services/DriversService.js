@@ -1,13 +1,56 @@
+import axios from "axios";
+
 const DriversService = (() => {
   const driversController = "http://localhost:5068/api/drivers";
+  const imageController = "http://localhost:5068/api/imageUpload";
+  const imageUrl = "http://localhost:5068/images";
 
   const getAllDrivers = async () => {
-    const result = await fetch(driversController);
+    try {
+      const result = await axios.get(driversController);
 
-    console.log(result);
+      return result;
+    } catch (e) {
+      return [];
+    }
   };
 
-  return { getAllDrivers };
+  const getDriversById = async (id) => {
+    try {
+      const result = await axios.get(`${driversController}/${id}`);
+
+      return result;
+    } catch (e) {
+      console.log(e);
+      return null;
+    }
+  };
+
+  const postNewDriver = async (newDriver, image) => {
+    try {
+      const result = await axios.post(driversController, newDriver);
+
+      const formData = new FormData();
+      formData.append("formFile", image);
+
+      const uploadResult = await axios({
+        url: imageController,
+        method: "POST",
+        headers: { "Content-Type": "multipart/form-data" },
+        data: formData,
+      });
+
+      formData.delete("formFile");
+    } catch (error) {
+      console.log(error);
+    }
+  };
+
+  const getImageUrl = () => {
+    return imageUrl;
+  };
+
+  return { getAllDrivers, getDriversById, postNewDriver, getImageUrl };
 })();
 
 export default DriversService;

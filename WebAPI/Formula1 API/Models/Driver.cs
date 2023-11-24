@@ -10,5 +10,4 @@ public class Driver : IDriver
     public string? Image { get; set; }
     public int? Points { get; set; }
     public int? Ranking { get; set; }
-    public string? Flag { get; set; }
 }
