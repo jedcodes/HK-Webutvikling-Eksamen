@@ -5,11 +5,9 @@ const FlashCards = ({ question, answer, option1, option2, option3 }) => {
 
   const frontSide = () => {
     <div className="px-6 py-4">
-      {/* Card Header */}
       <div className="font-semibold text-lg pt-4 pb-2 flex justify-center">
         <h1>Question: {question}</h1>
       </div>
-      {/* Card Body*/}
       <div className=" mb-2 flex justify-center">
         <ul>
           <li>{option1}</li>
