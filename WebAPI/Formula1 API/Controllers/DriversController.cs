@@ -68,7 +68,7 @@ public class DriversController : ControllerBase
     }
 
     // Get By Name method kontroller
-    [HttpGet("name/{name}")]
+    [HttpGet("[action]/{name}")]
     public async Task<ActionResult<Driver>> GetByName(string name)
     {
         try

@@ -26,6 +26,15 @@ const DriversService = (() => {
     }
   };
 
+  const getDriverByName = async (driverName) => {
+    try {
+      const result = await axios.get(`${driversController}/name/${driverName}`);
+      return result;
+    } catch (e) {
+      return e;
+    }
+  };
+
   const postNewDriver = async (newDriver, image) => {
     try {
       const result = await axios.post(driversController, newDriver);
@@ -41,6 +50,8 @@ const DriversService = (() => {
       });
 
       formData.delete("formFile");
+      console.log(result);
+      console.log(uploadResult);
     } catch (error) {
       console.log(error);
     }
@@ -50,7 +61,13 @@ const DriversService = (() => {
     return imageUrl;
   };
 
-  return { getAllDrivers, getDriversById, postNewDriver, getImageUrl };
+  return {
+    getAllDrivers,
+    getDriversById,
+    getDriverByName,
+    postNewDriver,
+    getImageUrl,
+  };
 })();
 
 export default DriversService;

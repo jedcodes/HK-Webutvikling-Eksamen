@@ -17,6 +17,10 @@ const FlashCardService = (() => {
   const postFlashCard = async (newFlashCard) => {
     try {
       const result = axios.post(flashCardController, newFlashCard);
+      if (result.status == 200) {
+        console.log(result);
+        alert("Flash Card Added");
+      } else alert("Something went wrong");
     } catch (e) {
       console.log(e);
     }

@@ -1,34 +1,23 @@
-import { FlashCard } from "../components";
-
-const SIMPLEQUESTION = [
-  {
-    id: 1,
-    question: "What is 1+1?",
-    answer: "4",
-    option1: "2",
-    option2: "4",
-    option3: "5",
-    option4: "10",
-  },
-  {
-    id: 1,
-    question: "What is 1+10?",
-    answer: "11",
-    option1: "2",
-    option2: "4",
-    option3: "5",
-    option4: "11",
-  },
-];
-
-const renderFlashCards = () => {
-  const cards = SIMPLEQUESTION.map((flashCard) => {
-    <FlashCard key={flashCard.id} question={flashCard.question} />;
-  });
-  return cards;
-};
+import { useContext } from "react";
+import { FlashCards } from "../components";
+import FormulaContext from "../context/FormulaContext";
 
 const FlashCardScreen = () => {
+  const { flashcards } = useContext(FormulaContext);
+
+  const renderFlashCards = () => {
+    const flashCard = flashcards.map((card) => (
+      <FlashCards
+        key={card.id}
+        question={card.question}
+        answer={card.answer}
+        option1={card.option1}
+        option2={card.option2}
+        option3={card.option3}
+      />
+    ));
+    return flashCard;
+  };
   return <section className="max-container">{renderFlashCards()}</section>;
 };
 

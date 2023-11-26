@@ -56,7 +56,7 @@ public class TeamsController : ControllerBase
     }
 
     // Get By Name method kontroller
-    [HttpGet("[action]")]
+    [HttpGet("[action]/{name}")]
     public async Task<ActionResult<Team>> GetByName(string name)
     {
         try
