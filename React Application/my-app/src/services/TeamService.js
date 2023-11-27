@@ -2,6 +2,7 @@ import axios from "axios";
 
 const TeamsService = (() => {
   const teamsController = "http://localhost:5068/api/teams";
+  const imageUrl = "http://localhost:5068/images";
 
   const getAllTeams = async () => {
     try {
@@ -33,7 +34,11 @@ const TeamsService = (() => {
     }
   };
 
-  return { getAllTeams, getTeamById, getTeamByName };
+  const getImageUrl = () => {
+    return imageUrl;
+  };
+
+  return { getAllTeams, getTeamById, getTeamByName, getImageUrl };
 })();
 
 export default TeamsService;

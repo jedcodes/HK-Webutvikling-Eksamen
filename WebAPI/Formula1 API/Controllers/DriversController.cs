@@ -44,7 +44,7 @@ public class DriversController : ControllerBase
         }
     }
 
-    // Get By Id method kontroller
+    // Get By Id method controller
     [HttpGet("{id}")]
     public async Task<ActionResult<Driver>> GetById(int id)
     {

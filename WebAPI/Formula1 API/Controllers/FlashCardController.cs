@@ -82,4 +82,29 @@ public class FlashCardController : ControllerBase
             return StatusCode(500);
         }
     }
+
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> Delete(int id)
+    {
+        try
+        {
+            FlashCard? flashCard = await context.FlashCards.FindAsync(id);
+
+            if (flashCard != null)
+            {
+                context.FlashCards.Remove(flashCard);
+                await context.SaveChangesAsync();
+                return NoContent();
+            }
+            else
+            {
+                return NotFound();
+            }
+
+        }
+        catch
+        {
+            return StatusCode(500);
+        }
+    }
 }

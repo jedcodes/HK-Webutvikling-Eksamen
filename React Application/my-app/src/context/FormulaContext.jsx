@@ -67,7 +67,7 @@ export const FormulaProvider = ({ children }) => {
     }
   };
 
-  const getByIdFromService = async (id) => {
+  const getTeamByIdFromService = async (id) => {
     try {
       const { data } = await TeamsService.getTeamById(id);
 
@@ -113,6 +113,37 @@ export const FormulaProvider = ({ children }) => {
     }
   };
 
+  const getById = async (id) => {
+    try {
+      const flashCardToUpdate = await FlashCardService.getByID(id);
+
+      return flashCardToUpdate;
+    } catch {
+      alert("No Flash Card Found! Try Again");
+    }
+  };
+
+  // Editing flash card question
+  const editFlashCard = async (updateFlashCard) => {
+    try {
+      await FlashCardService.putFlashCard(updateFlashCard);
+      getAllFlashCardsFromService();
+    } catch {
+      alert("Something went wrong");
+    }
+  };
+
+  // Deleting flash card from database
+  const deleteFlashCard = async (id) => {
+    try {
+      const result = await FlashCardService.deleteFlashCard(id);
+
+      return result;
+    } catch {
+      alert("Something went wrong");
+    }
+  };
+
   const value = {
     drivers,
     teams,
@@ -120,8 +151,11 @@ export const FormulaProvider = ({ children }) => {
     flashcards,
     getByIDFromService,
     getByNameFromService,
-    getByIdFromService,
     getTeamByNameFromService,
+    getTeamByIdFromService,
+    getById,
+    editFlashCard,
+    deleteFlashCard,
   };
 
   return (

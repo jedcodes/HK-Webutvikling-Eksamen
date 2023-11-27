@@ -43,11 +43,14 @@ public class TeamsController : ControllerBase
         {
             Team? team = await context.Teams.FindAsync(id);
 
-            if (team == null)
+            if (team != null)
+            {
+                return Ok(team);
+            }
+            else
             {
                 return NotFound();
             }
-            return Ok(team);
         }
         catch
         {

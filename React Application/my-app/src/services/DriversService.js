@@ -2,7 +2,6 @@ import axios from "axios";
 
 const DriversService = (() => {
   const driversController = "http://localhost:5068/api/drivers";
-  const imageController = "http://localhost:5068/api/imageUpload";
   const imageUrl = "http://localhost:5068/images";
 
   const getAllDrivers = async () => {
@@ -35,28 +34,6 @@ const DriversService = (() => {
     }
   };
 
-  const postNewDriver = async (newDriver, image) => {
-    try {
-      const result = await axios.post(driversController, newDriver);
-
-      const formData = new FormData();
-      formData.append("formFile", image);
-
-      const uploadResult = await axios({
-        url: imageController,
-        method: "POST",
-        headers: { "Content-Type": "multipart/form-data" },
-        data: formData,
-      });
-
-      formData.delete("formFile");
-      console.log(result);
-      console.log(uploadResult);
-    } catch (error) {
-      console.log(error);
-    }
-  };
-
   const getImageUrl = () => {
     return imageUrl;
   };
@@ -65,7 +42,6 @@ const DriversService = (() => {
     getAllDrivers,
     getDriversById,
     getDriverByName,
-    postNewDriver,
     getImageUrl,
   };
 })();

@@ -10,5 +10,5 @@ public class Team : ITeam
     public string? Driver2 { get; set; }
     public int Ranking { get; set; }
     public int Points { get; set; }
-    public string? Logo { get; set; }
+
 }

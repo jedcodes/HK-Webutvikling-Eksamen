@@ -10,5 +10,4 @@ public interface ITeam
     string? Driver2 { get; set; }
     int Ranking { get; set; }
     int Points { get; set; }
-    string? Logo { get; set; }
 }
